@@ -1,6 +1,6 @@
-﻿namespace Tyuiu.NedvedevaPI.SPrint2.V22;
+﻿namespace Tyuiu.MedvedevaPI.Srint2.Task2.V22;
 
-using Tyuiu.MedvedevaPI.Sprint2.V22.Lib;
+using Tyuiu.MedvedevaPI.Sprint2.Task2.V22.Lib;
 class Program
 {
     static void Main(string[] args)

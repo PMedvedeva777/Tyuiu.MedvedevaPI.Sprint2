@@ -1,6 +1,6 @@
-﻿namespace Tyuiu.MedvedevaPI.Sprint2.V22.Test;
+﻿namespace Tyuiu.MedvedevaPI.Sprint2.Task2.V22.Test;
 
-using Tyuiu.MedvedevaPI.Sprint2.V22.Lib;
+using Tyuiu.MedvedevaPI.Sprint2.Task2.V22.Lib;
 
 [TestClass]
 public sealed class DataServiceTest
